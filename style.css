@@ -1,0 +1,64 @@
+h1 {
+	background-color: #EFCB77;
+	font-family: segoe ui black;
+	color: #BF6D05;
+	font-size: 3em;
+}
+
+h2 {
+	color: #FCEF7E;
+	font-size: 2em;
+	font-family: segoe ui black;
+	letter-spacing: 0.06em;
+}
+
+body {
+	background-color: #947246;
+	font-family: segoe ui;
+}
+
+
+p {
+	color: #FCEF7E;
+	font-size: 1.5em;
+	font-family: segoe ui;
+	font-style: italic;
+
+}
+
+a:hover {
+    color: #151814;
+    font-family: segoe ui;
+    background-color: #F2D781;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+a:active {
+    background-color: #FC8F02;
+    font-family: segoe ui;
+}
+
+a {
+	color: #FC8F02;
+	text-decoration: underline;
+	font-family: segoe ui;
+}
+
+ul {
+	color: #FCEF7E;
+	font-family: segoe ui;
+}
+
+ol {
+	color: #FCEF7E;
+	font-family: segoe ui;
+}
+
+.heading-list {
+	font-size: 1.5em;
+	background-color: #80825E;
+	letter-spacing: 0.08em;
+	font-family: segoe ui black;
+	font-style: normal;
+}
